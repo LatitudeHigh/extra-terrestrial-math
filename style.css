@@ -1,6 +1,6 @@
 canvas {
-    border: 1px solid black;
-    display: inline-block;
+    border: 4px solid darkblue;
+    display: block;
     vertical-align: top;
 }
 
